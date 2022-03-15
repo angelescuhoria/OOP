@@ -1,0 +1,3 @@
+
+Departamentul de finante a inregistrat 500$ in ziua 1, 1000$ in ziua 2, 1500$ in ultima zi.
+Cheltuielile sunt de 1000$, iar profitul este de: 2000$ .

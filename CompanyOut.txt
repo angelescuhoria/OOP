@@ -1,0 +1,6 @@
+Numarul de luni este: 5
+Valoarea neta a companiei in luna 1este de: 1250$
+Valoarea neta a companiei in luna 2este de: 1100$
+Valoarea neta a companiei in luna 3este de: 1350$
+Valoarea neta a companiei in luna 4este de: 2700$
+Valoarea neta a companiei in luna 5este de: 3900$

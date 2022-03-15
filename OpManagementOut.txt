@@ -1,0 +1,5 @@
+Numele Departamentului este: operatiuni
+Acesta produce obiecte de tip frigider, de marime L ce costa 1000$, avand ID-ul 9996 a fost fabricat de 1 ori.
+Din cele 1750 materiale, s-au folosit cate 1000 de resurse pentru fiecare produs in parte.
+Codul de bare este: #ff0000 iar Totalul este: 1000$.
+Au ramas 750 materiale in depozit.
