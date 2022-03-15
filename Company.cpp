@@ -378,7 +378,7 @@ class Company : public World_Economy
 private:
     int dim;
     vector <Employees> EVector;
-    const char company_name[17] = "Tzeaca_Computer$";
+    const char company_name[17] = "Coral Install";
     float* net_worth;
     int months;
 
@@ -1672,7 +1672,7 @@ int main()
       //cout << esc;
       //g << esc;
     */
-//===============Scuffed Menu===============//
+//===============Menu===============//
     bool open, modif, decider = 1;
     int visualize, ind, dimen, imen;
     float new_expenses;
@@ -1686,14 +1686,14 @@ int main()
     {
     case 0:
     {
-        cout << "Compania Tzeaca Computer$ nu este deschisa momentan. Reveniti mai tarziu";
+        cout << "Compania Coral Install nu este deschisa momentan. Reveniti mai tarziu";
         break;
     }
     case 1:
     {
         cout << "\n";
         cout << " ____________________________________________\n";
-        cout << "| Bun venit la compania <Tzeaca Computer$!>  |\n";
+        cout << "| Bun venit la compania <Coral Install>  |\n";
         cout << "|____________________________________________|\n";
         cout << "\n";
         sleep(1);
